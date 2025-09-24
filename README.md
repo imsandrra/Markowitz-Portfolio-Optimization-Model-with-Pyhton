@@ -63,7 +63,7 @@ The "sweet spot" occurs at moderate risk levels, where portfolios outperform bot
 
 ### Efficient Frontier Visualization
 
-![Efficient Frontier](<img src="/image.png" alt="Efficient Frontier" width="700" height="500">)
+<img src="/image.png" alt="Efficient Frontier" width="700" height="500">
 *Figure: The efficient frontier showing the risk-return trade-off. Color indicates Sharpe ratio, with optimal portfolios in the 22-27% volatility range.*
 
 ### Portfolio Insights
