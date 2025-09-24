@@ -142,7 +142,4 @@ get_weights_for_target_volatility(0.273, expected_returns, cov_matrix, tickers)
 
 Investors should consult with qualified financial advisors and consider their complete financial situation before making investment decisions.
 
-## License
-
-This project is for educational and research purposes only. Not financial advice.
-```
+*This project is for educational and research purposes only. Not financial advice.*
