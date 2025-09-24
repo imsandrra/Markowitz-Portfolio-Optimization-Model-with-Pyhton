@@ -62,9 +62,8 @@ The optimizer heavily weights defensive assets (PG, GS) and reduces allocation t
 The "sweet spot" occurs at moderate risk levels, where portfolios outperform both conservative and aggressive strategies on a risk-adjusted basis.
 
 ### Efficient Frontier Visualization
-<img src="/image.png" alt="Efficient Frontier" width="700" height="500">
 
-![Efficient Frontier](/image.png)
+![Efficient Frontier](<img src="/image.png" alt="Efficient Frontier" width="700" height="500">)
 *Figure: The efficient frontier showing the risk-return trade-off. Color indicates Sharpe ratio, with optimal portfolios in the 22-27% volatility range.*
 
 ### Portfolio Insights
