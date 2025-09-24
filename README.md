@@ -1,7 +1,6 @@
 # Markowitz Portfolio Optimization Model
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
@@ -13,21 +12,6 @@ This repository implements Modern Portfolio Theory (MPT) optimization for constr
 
 ## Key Results
 
-- **Minimum Variance Portfolio:** 17.5% volatility, 17.3% annual return
-- **Optimal Sharpe Ratio:** ~1.42 at 22.3%-27.3% volatility range
+- **Minimum Variance Portfolio:** 17.5% volatility, 18% annual return
+- **Optimal Sharpe Ratio:** ~1.42 at 20%-26.3% volatility range and 25%-37%
 - **Dominant Strategy:** Defensive asset allocation (PG: 35.6%, JNJ: 45.5%)
-
-## Quick Start
-
-### Installation
-```bash
-# Clone repository
-git clone https://github.com/yourusername/markowitz-portfolio.git
-cd markowitz-portfolio
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
