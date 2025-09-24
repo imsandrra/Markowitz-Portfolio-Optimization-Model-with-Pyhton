@@ -49,6 +49,9 @@ The optimization framework includes six stocks across different sectors:
 - **GS**: 1.2%
 - **XOM**: 11.8%
 
+Portfolio Volatility: 17.5%
+Portfolio Return: 12.3%
+
 The optimizer heavily weights defensive assets (PG, GS) and reduces allocation to high-volatility growth stocks (AAPL, NVDA), reflecting the mathematical reality that diversification benefits are maximized by combining low-correlation assets.
 
 ### Optimal Risk-Return Profile
@@ -57,6 +60,14 @@ The optimizer heavily weights defensive assets (PG, GS) and reduces allocation t
 - **Expected Return Range**: ~25% - 35% annualized
 
 The "sweet spot" occurs at moderate risk levels, where portfolios outperform both conservative and aggressive strategies on a risk-adjusted basis.
+
+### Efficient Frontier Visualization
+
+![Efficient Frontier](<img width="1322" height="1008" alt="image" src="https://github.com/user-attachments/assets/dccf174f-c469-4103-a8e6-78f9a9b267db" />)
+*Figure: The efficient frontier showing the risk-return trade-off. Color indicates Sharpe ratio, with optimal portfolios in the 22-27% volatility range.*
+
+![Uploading image.png…]()
+
 
 ### Portfolio Insights
 
